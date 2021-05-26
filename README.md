@@ -9,6 +9,7 @@ Contributors:
     Tienzheng Zheng
 
 How to play: 
+    
     Controls: 
 	Move: W, A, S, D
 	Jump: Spacebar
@@ -45,6 +46,7 @@ Known problem areas:
     collision and the raccoon does not get teleported back to the sidewalk
 
 Manifest: 
+    
     Tyler Scaramastro
 	Tasks:
 	    Enemy AI, transitions between scenes, enemy animations, water hazards
